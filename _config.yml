@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Tolulope Samuel Oladele"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Computational Neuroscience | Visual & User Experience Designer"
   location         : "Nigeria"
   employer         : "University of Medical Sciences, Ondo State"
@@ -59,7 +59,7 @@ author:
   linkedin         : "tolulanguy"
   mastodon         : # URL
   medium           : # URL
-  pinterest        : "tolulanguy"# Username
+  pinterest        : "tolulanguy" # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
