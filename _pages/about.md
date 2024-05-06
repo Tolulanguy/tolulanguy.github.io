@@ -33,4 +33,4 @@ Activities
 
 For more info
 ------
-For more info about any of my projects or any other questions, do not hesitate to contact me through any of the given contact information.
+If you have inquiries or questions about any of my projects, or if you need my collaboration on a project, please do not hesitate to contact me through any of the given contact information.
