@@ -29,6 +29,7 @@ Activities
 3. [Active Course] Enrolled in Modeller's Workshop: Brain Dynamics Toolbox, enhancing skills in computational neuroscience modeling.
 4. [Upcoming Course] IRCN and Chen Institute Joint Course on Neuro-Inspired Computation, University of Tokyo. July, 2024.
 5. [Upcoming Workshop] NeuroDataReHack - Janelia Research Campus in Ashburn, VA, USA. July, 2024.
+6. [Upcoming Course] Computational Neuroscience - Neuromatch. August, 2024
 
 For more info
 ------
