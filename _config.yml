@@ -27,7 +27,7 @@ author:
   bio              : "Computational Neuroscience | Visual & User Experience Designer"
   location         : "Nigeria"
   employer         : "University of Medical Sciences, Ondo State"
-  URL              : "https://behance.net/oladeletolu" # URL
+  URI              : "https://behance.net/oladeletolu" # URL
   email            : "toladele@unimed.edu.ng" 
 
   # Academic websites
@@ -65,7 +65,6 @@ author:
   telegram         : # URL
   tumblr           : # Username
   twitter          : "xx_tolu" # Username for X / Twitter
-            : "xx_tolu" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
