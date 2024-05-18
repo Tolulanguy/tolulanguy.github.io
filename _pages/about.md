@@ -24,7 +24,7 @@ In my leisure time, I sometimes do freelance and volunteer work. I also explore 
 
 Activities
 ------
-1. [PREPRINT] "Ameliorative Effects of Aqueous Extract of Colocasia esculenta Leaf Against Lipopolysaccharide-Induced Prefrontal Cortex Damage in Mice" is now available on Research Square <a href="https://doi.org/10.21203/rs.3.rs-4308560/v1" target="_blank"> https://doi.org/10.21203/rs.3.rs-4308560/v1 </a>
+1. [PREPRINT] "Ameliorative Effects of Aqueous Extract of Colocasia esculenta Leaf Against Lipopolysaccharide-Induced Prefrontal Cortex Damage in Mice" is now available on Research Square <a href="https://doi.org/10.21203/rs.3.rs-4308560/v1" target="_blank"> https://doi.org/10.21203/rs.3.rs-4308560/v1 </a>.
 2. [May 23, 2024] Currently writing a manuscript on "Investigating the mechanism and molecular dynamics of Aframomum Melegueta as a potential therapeutic agent against neuroinflammation".
 3. [May 21, 2024] Submitted manuscript on the "Therapeutic role of Aframomum Melegueta in lipopolysaccharide-induced mouse models of neuroinflammation and memory defect".
 4. [Active Course] Enrolled in Modeller's Workshop: Brain Dynamics Toolbox, enhancing skills in computational neuroscience modeling.
