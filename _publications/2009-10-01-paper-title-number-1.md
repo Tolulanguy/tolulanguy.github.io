@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Ameliorative Effects of Aqueous Extract of Colocasia esculenta Leaf Against Lipopolysaccharide-Induced Prefrontal cortex damage in Mice"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The prefrontal-cortex (PFC) occupies about one-third of the total area of the cerebral cortex and it plays crucial role in Cognition and memory. This study evaluated the ameliorative effects of aqueous extract of Colocasia esculenta leaf (AECEL) on lipopolysaccharide-induced Prefrontal-cortex damage...'
+date: 2024-05-07
+venue: 'Research Square'
+paperurl: 'https://doi.org/10.21203/rs.3.rs-4308560/v1'
+citation: 'Jacob Adewale Siyanbade, Kingsley Afoke Iteire, Sunday Aderemi Adelakun et al. Ameliorative Effects of Aqueous Extract of Colocasia esculenta Leaf Against Lipopolysaccharide-Induced Prefrontal Cortex Damage in Mice, 07 May 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-4308560/v1]'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
