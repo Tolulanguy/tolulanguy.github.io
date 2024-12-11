@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Tolulope, I am committed to unraveling the mysteries of the brain and exploring its complex intricacies. With a strong academic background in Human Anatomy, specifically focused on Neuroscience, I've dedicated my career to understanding the complexities of neural systems.
 My journey began in empirical neuroscience, where I delved into the intricate workings of the brain through hands-on exploration. From dissecting various animal brains, ranging from rodents to wild boar, I gained invaluable insights into the anatomical nuances underpinning neural function.
-Additionally, as a professional [User Experience & Interface Designer](https://behance.net/oladeletolu), I use a creative mindset to combine science with innovative design principles to communicate complex ideas effectively.
+Additionally, as a professional [User Experience & Interface Designer](https://behance.net/oladeletolu), I blend creativity with analytical and logical skills to unite scientific insights with innovative design principles, effectively communicating complex ideas.
 
 Research Background
 ======
