@@ -22,29 +22,59 @@ To enhance my understanding of computational neuroscience, I actively participat
 
 In my leisure time, I sometimes do freelance and volunteer work. I also explore the captivating world of anime and triple-A games. I enjoy analyzing and sharing my insights on various anime series on globally renowned entertainment websites like <a href="https://www.cbr.com/author/tolu-oladele/" target="_blank"> CBR.com </a>.
 
-| Date               | Event/News |
-|--------------------|------------|
+Activities
+----------
 
-| December 14, 2024 | We presented the poster for our new paper at the <a href="https://unireps.org/2024/" target="_blank"> *Unifying Representations in Neural Models (UniReps) Workshop* </a> during <a href="https://neurips.cc/" target="_blank"> NeurIPS </a> 2024 in Vancouver, Canada. |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>December 14, 2024</b></div>
+  <div>We presented the poster for our new paper at the <a href="https://unireps.org/2024/" target="_blank">*Unifying Representations in Neural Models (UniReps) Workshop*</a> during <a href="https://neurips.cc/" target="_blank">NeurIPS</a> 2024 in Vancouver, Canada.</div>
+</div>
 
-| December 10, 2024 | My team and I won second place🎊 at the <a href="https://www.linkedin.com/posts/mexacommunity_the-first-mexa-hackathon-was-a-great-success-activity-7272414149920366592-lLSM?utm_source=share&utm_medium=member_desktop" target="_blank"> *Mental Health, AI, & Measurement Hackathon* </a>! We used a large language model to develop early intervention tools for clinicians to identify signs of postnatal depression, aiming to improve maternal and child outcomes. |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>December 10, 2024</b></div>
+  <div>My team and I won second place🎊 at the <a href="https://www.linkedin.com/posts/mexacommunity_the-first-mexa-hackathon-was-a-great-success-activity-7272414149920366592-lLSM?utm_source=share&utm_medium=member_desktop" target="_blank">*Mental Health, AI, & Measurement Hackathon*</a>! We used a large language model to develop early intervention tools for clinicians to identify signs of postnatal depression, aiming to improve maternal and child outcomes.</div>
+</div>
 
-| December 9, 2024 | New paper accepted in *Journal of Toxicology*: *Zinc and/or Vitamin E Supplementation Mitigates Oxidative Stress, Neuroinflammation, Neurochemical Changes, and Behavioral Deficits in Male Wistar Rats Exposed to Bonny Light Crude Oil.* |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>December 9, 2024</b></div>
+  <div>New paper accepted in *Journal of Toxicology*: *Zinc and/or Vitamin E Supplementation Mitigates Oxidative Stress, Neuroinflammation, Neurochemical Changes, and Behavioral Deficits in Male Wistar Rats Exposed to Bonny Light Crude Oil.*</div>
+</div>
 
-| October 11, 2024 | New paper accepted: *Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain*, published in the Proceedings Track of UniReps 2024, NeurIPS 2024. |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>October 11, 2024</b></div>
+  <div>New paper accepted: *Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain*, published in the Proceedings Track of UniReps 2024, NeurIPS 2024.</div>
+</div>
 
-| October 2, 2024 | New paper: <a href="http://dx.doi.org/10.1007/s42452-024-06120-9" target="_blank"> *Ameliorative effects of aqueous extract of Colocasia esculenta leaf against lipopolysaccharide-induced prefrontal cortex damage in mice* </a>, published in Discover Applied Sciences. |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>October 2, 2024</b></div>
+  <div>New paper: <a href="http://dx.doi.org/10.1007/s42452-024-06120-9" target="_blank">*Ameliorative effects of aqueous extract of Colocasia esculenta leaf against lipopolysaccharide-induced prefrontal cortex damage in mice*</a>, published in Discover Applied Sciences.</div>
+</div>
 
-| October 2, 2024 | New paper: <a href="https://doi.org/10.26538/tjnpr/v8i9.28" target="_blank"> *Colocasia esculenta Leaf Extract Mitigates Hippocampal Injury Caused by Lipopolysaccharide in Mice* </a>, published in the Tropical Journal of Natural Product Research (TJNPR). |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>October 2, 2024</b></div>
+  <div>New paper: <a href="https://doi.org/10.26538/tjnpr/v8i9.28" target="_blank">*Colocasia esculenta Leaf Extract Mitigates Hippocampal Injury Caused by Lipopolysaccharide in Mice*</a>, published in the Tropical Journal of Natural Product Research (TJNPR).</div>
+</div>
 
-| September 30, 2024 | Our research proposal was accepted, and my team and I were selected to participate in the *Impact Scholars Program* by Neuromatch. |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>September 30, 2024</b></div>
+  <div>Our research proposal was accepted, and my team and I were selected to participate in the *Impact Scholars Program* by Neuromatch.</div>
+</div>
 
-| August 30, 2024 | I was honored with the *Best Presentation Award* at the *Faculty of Basic Medical Science Week 2024*, held at the University of Medical Sciences. |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>August 30, 2024</b></div>
+  <div>I was honored with the *Best Presentation Award* at the *Faculty of Basic Medical Science Week 2024*, held at the University of Medical Sciences.</div>
+</div>
 
-| July 21, 2024 | I participated in the *IRCN and Chen Institute Joint Course on Neuro-Inspired Computation* from July 15 to July 20, 2024, held at the International Research Center for Neurointelligence (IRCN), University of Tokyo, Japan. The travel support and accommodation were generously provided by IRCN and the Chen Institute. |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>July 21, 2024</b></div>
+  <div>I participated in the *IRCN and Chen Institute Joint Course on Neuro-Inspired Computation* from July 15 to July 20, 2024, held at the International Research Center for Neurointelligence (IRCN), University of Tokyo, Japan. The travel support and accommodation were generously provided by IRCN and the Chen Institute.</div>
+</div>
 
-| July 8, 2024 | I was selected to participate in the NeuroDataReHack Workshop at the Janelia Research Campus, Ashburn, VA, USA, with travel support and accommodation generously provided. |
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div><b>July 8, 2024</b></div>
+  <div>I was selected to participate in the NeuroDataReHack Workshop at the Janelia Research Campus, Ashburn, VA, USA, with travel support and accommodation generously provided.</div>
+</div>
 
 For more info
 ------
-If you have inquiries or questions about any of my projects, or if you need my collaboration on a project, please do not hesitate to contact me through any of the given contact information.
+If you have inquiries or questions about any of my projects, or for collaborations, please do not hesitate to contact me through any of my contact information in the sidebar/about me page.
