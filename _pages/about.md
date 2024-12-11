@@ -22,15 +22,27 @@ To enhance my understanding of computational neuroscience, I actively participat
 
 In my leisure time, I sometimes do freelance and volunteer work. I also explore the captivating world of anime and triple-A games. I enjoy analyzing and sharing my insights on various anime series on globally renowned entertainment websites like <a href="https://www.cbr.com/author/tolu-oladele/" target="_blank"> CBR.com </a>.
 
-Activities
-------
+| Date               | Event/News                                                                                                                      |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------|
+
 | December 14, 2024 | We presented the poster for our new paper at the (*Unifying Representations in Neural Models (UniReps) Workshop*)[https://unireps.org/2024/] during (NeurIPS)[https://neurips.cc/] 2024 in Vancouver, Canada. |
+
 | December 10, 2024 | My team and I won second place🎊 at the (*Mental Health, AI, & Measurement Hackathon*)[https://www.linkedin.com/posts/mexacommunity_the-first-mexa-hackathon-was-a-great-success-activity-7272414149920366592-lLSM?utm_source=share&utm_medium=member_desktop]! We used a large language model to develop early intervention tools for clinicians to identify signs of postnatal depression, aiming to improve maternal and child outcomes. |
+
 | December 9, 2024 | New paper accepted in *Journal of Toxicology*: *Zinc and/or Vitamin E Supplementation Mitigates Oxidative Stress, Neuroinflammation, Neurochemical Changes, and Behavioral Deficits in Male Wistar Rats Exposed to Bonny Light Crude Oil.* |
+
 | October 11, 2024 | New paper accepted: *Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain*, published in the Proceedings Track of UniReps 2024, NeurIPS 2024. |
+
+| October 2, 2024 | New paper: <a href="http://dx.doi.org/10.1007/s42452-024-06120-9" target="_blank"> *Ameliorative effects of aqueous extract of Colocasia esculenta leaf against lipopolysaccharide-induced prefrontal cortex damage in mice* </a>, published in Discover Applied Sciences. |
+
+| October 2, 2024 | New paper: (*Colocasia esculenta Leaf Extract Mitigates Hippocampal Injury Caused by Lipopolysaccharide in Mice*)[https://doi.org/10.26538/tjnpr/v8i9.28], published in the Tropical Journal of Natural Product Research (TJNPR). |
+
 | September 30, 2024 | Our research proposal was accepted, and my team and I were selected to participate in the *Impact Scholars Program* by Neuromatch. |
+
 | August 30, 2024 | I was honored with the *Best Presentation Award* at the *Faculty of Basic Medical Science Week 2024*, held at the University of Medical Sciences. |
+
 | July 21, 2024 | I participated in the *IRCN and Chen Institute Joint Course on Neuro-Inspired Computation* from July 15 to July 20, 2024, held at the International Research Center for Neurointelligence (IRCN), University of Tokyo, Japan. The travel support and accommodation were generously provided by IRCN and the Chen Institute. |
+
 | July 8, 2024 | I was selected to participate in the NeuroDataReHack Workshop at the Janelia Research Campus, Ashburn, VA, USA, with travel support and accommodation generously provided. |
 
 For more info
