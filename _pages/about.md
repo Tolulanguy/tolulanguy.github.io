@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my page 🎊"
+title: "Tolulope Oladele"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Tolulope, I am committed to unraveling the mysteries of the brain and exploring its complex intricacies. With a strong academic background in Human Anatomy, specifically focused on Neuroscience, I've dedicated my career to understanding the complexities of neural systems.
 My journey began in empirical neuroscience, where I delved into the intricate workings of the brain through hands-on exploration. From dissecting various animal brains, ranging from rodents to wild boar, I gained invaluable insights into the anatomical nuances underpinning neural function.
-Additionally, as a professional designer, I use a creative mindset to combine science with innovative design principles to communicate complex ideas effectively.
+Additionally, as a professional [User Experience & Interface Designer](https://behance.net/oladeletolu), I use a creative mindset to combine science with innovative design principles to communicate complex ideas effectively.
 
 Research Background
 ======
@@ -24,14 +24,14 @@ In my leisure time, I sometimes do freelance and volunteer work. I also explore 
 
 Activities
 ------
-1. [PREPRINT] "Ameliorative Effects of Aqueous Extract of Colocasia esculenta Leaf Against Lipopolysaccharide-Induced Prefrontal Cortex Damage in Mice" is now available on Research Square <a href="https://doi.org/10.21203/rs.3.rs-4308560/v1" target="_blank"> https://doi.org/10.21203/rs.3.rs-4308560/v1 </a>.
-2. [May 23, 2024] Currently writing a manuscript on "Investigating the mechanism and molecular dynamics of Aframomum Melegueta as a potential therapeutic agent against neuroinflammation".
-3. [May 21, 2024] Submitted manuscript on the "Therapeutic role of Aframomum Melegueta in lipopolysaccharide-induced mouse models of neuroinflammation and memory defect".
-4. [Active Course] Enrolled in Modeller's Workshop: Brain Dynamics Toolbox, enhancing skills in computational neuroscience modeling.
-5. [Upcoming Course] IRCN and Chen Institute Joint Course on Neuro-Inspired Computation, University of Tokyo. July, 2024.
-6. [Upcoming Workshop] NeuroDataReHack - Janelia Research Campus in Ashburn, VA, USA. July, 2024.
-7. [Upcoming Course] Computational Neuroscience - Neuromatch Academy. July, 2024
-6. [Upcoming Summer School] ISN Neuroscience School, UNIMED. August, 2024
+| December 14, 2024 | We presented the poster for our new paper at the (*Unifying Representations in Neural Models (UniReps) Workshop*)[https://unireps.org/2024/] during (NeurIPS)[https://neurips.cc/] 2024 in Vancouver, Canada. |
+| December 10, 2024 | My team and I won second place🎊 at the (*Mental Health, AI, & Measurement Hackathon*)[https://www.linkedin.com/posts/mexacommunity_the-first-mexa-hackathon-was-a-great-success-activity-7272414149920366592-lLSM?utm_source=share&utm_medium=member_desktop]! We used a large language model to develop early intervention tools for clinicians to identify signs of postnatal depression, aiming to improve maternal and child outcomes. |
+| December 9, 2024 | New paper accepted in *Journal of Toxicology*: *Zinc and/or Vitamin E Supplementation Mitigates Oxidative Stress, Neuroinflammation, Neurochemical Changes, and Behavioral Deficits in Male Wistar Rats Exposed to Bonny Light Crude Oil.* |
+| October 11, 2024 | New paper accepted: *Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain*, published in the Proceedings Track of UniReps 2024, NeurIPS 2024. |
+| September 30, 2024 | Our research proposal was accepted, and my team and I were selected to participate in the *Impact Scholars Program* by Neuromatch. |
+| August 30, 2024 | I was honored with the *Best Presentation Award* at the *Faculty of Basic Medical Science Week 2024*, held at the University of Medical Sciences. |
+| July 21, 2024 | I participated in the *IRCN and Chen Institute Joint Course on Neuro-Inspired Computation* from July 15 to July 20, 2024, held at the International Research Center for Neurointelligence (IRCN), University of Tokyo, Japan. The travel support and accommodation were generously provided by IRCN and the Chen Institute. |
+| July 8, 2024 | I was selected to participate in the NeuroDataReHack Workshop at the Janelia Research Campus, Ashburn, VA, USA, with travel support and accommodation generously provided. |
 
 For more info
 ------
