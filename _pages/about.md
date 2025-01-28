@@ -135,4 +135,4 @@ Activities
 
 For more info
 ------
-If you have inquiries or questions about any of my projects, or for collaborations, please do not hesitate to contact me through any of my contact information in the sidebar/about me page.
+If you have inquiries or questions about any of my projects, or for collaborations, please do not hesitate to contact me through any of my contact information in the Sidebar (desktop) or the "Follow" button (mobile).
