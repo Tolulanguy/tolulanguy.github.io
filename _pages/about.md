@@ -7,18 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tolulope, I am committed to unraveling the mysteries of the brain and exploring its complex intricacies. With a strong academic background in Human Anatomy, specifically focused on Neuroscience, I've dedicated my career to understanding the complexities of neural systems.
+My name is Tolulope, I am committed to unraveling the mysteries of the brain and exploring its complex intricacies. With a strong academic background in Human Anatomy, specifically focused on Neuroanatomy, my career is dedicated to understanding the complexities of neural systems.
 My journey began in empirical neuroscience, where I delved into the intricate workings of the brain through hands-on exploration. From dissecting various animal brains, ranging from rodents to wild boar, I gained invaluable insights into the anatomical nuances underpinning neural function.
-Additionally, as a professional [User Experience & Interface Designer](https://behance.net/oladeletolu), I blend creativity with analytical and logical skills to unite scientific insights with innovative design principles, effectively communicating complex ideas.
+Additionally, as a professional [User Experience & Interface Designer](https://behance.net/oladeletolu), I blend creativity with analytical and logical skills. This allows me to seamlessly connect scientific insights with innovative design principles to communicate complex ideas with clarity and impact.
+
 
 Research Background
 ======
-My research endeavors have been multifaceted, spanning various laboratory techniques such as behavioral studies on rodents, microscopy in histopathological studies, and biochemical assays of different brain regions. Through these techniques, I've investigated the mechanisms of cognition and how they are influenced by neurodegenerative processes. My studies have also included the use of computational techniques in molecular and cellular neuroscience, such as molecular dynamics and simulation of protein-ligand interactions, to study the potential of certain phytocompounds as therapeutic agents against neurodegenerative symptoms and conditions.
+My research endeavors have been multifaceted, spanning various laboratory techniques such as behavioral studies on rodents, microscopy in histological studies, and biochemical assays of different brain regions. Through these techniques, I'm able to investigate the mechanisms of cognition and how they are influenced by neurodegenerative processes. In my MSc research, I actively applied advanced computational techniques in molecular and cellular neuroscience, including molecular dynamics and simulation of protein-ligand interaction. This work decisively demonstrated the significant potential of specific phytocompounds as therapeutic agents in combatting neurodegeneration.
 
 Transition to Computational Neuroscience
 ======
-Driven by a desire to delve deeper into the neural mechanisms of the brain, my focus was fully transitioned to computational neuroscience. By combining my strong background in neuroanatomy with newfound expertise in modeling neural networks, I aim to uncover novel insights into the computational principles of the brain by exploring the intersection of neuroscience, computation, and cognition. I am always eager to apply my skills in computational neuroscience to study neural dynamics, unravel complex cognitive processes, and explore potential therapeutic interventions for neurological disorders.
-To enhance my understanding of computational neuroscience, I actively participate in workshops, courses, and training programs focused on modeling neural networks. These experiences provide me with the tools and knowledge necessary to tackle the most pressing questions in the field. Thank you for visiting my page. You can explore my very few projects on my GitHub to join me on this journey of discovery.
+Motivated by a desire to explore the brain's neural mechanisms using computational techniques, my focus was fully transitioned to computational neuroscience. By combining my strong background in neuroanatomy with newfound expertise in modeling neural networks and analyzing neuroimaging data, I aim to uncover novel insights into the computational principles of the brain by exploring the intersection of neuroscience, computation, and cognition. I am always eager to apply my skills in computational neuroscience to study neural dynamics, unravel complex cognitive processes, and explore potential therapeutic interventions for neurological disorders.
+To enhance my understanding of computational neuroscience, I actively participate in workshops, courses, and training programs focused on modeling neural networks. These experiences provide me with the tools and knowledge necessary to tackle the most pressing questions in the field. Thank you for visiting my page. You can explore my recent projects on my GitHub to join me on this journey of discovery.
 
 In my leisure time, I sometimes do freelance and volunteer work. I also explore the captivating world of anime and triple-A games. I enjoy analyzing and sharing my insights on various anime series on globally renowned entertainment websites like <a href="https://www.cbr.com/author/tolu-oladele/" target="_blank"> CBR.com </a>.
 
@@ -67,8 +68,8 @@ Activities
 <div class="news-container">
   <div class="news-date">December 10, 2024</div>
   <div class="news-event">
-    My team and I won second place🎊 at the 
-    <a href="https://www.linkedin.com/posts/mexacommunity_the-first-mexa-hackathon-was-a-great-success-activity-7272414149920366592-lLSM?utm_source=share&utm_medium=member_desktop" target="_blank">Mental Health, AI, & Measurement Hackathon</a>! We used a large language model to develop early intervention tools for clinicians to identify signs of postnatal depression, 
+    My team and I won second place global🎊 at the 
+    <a href="https://www.linkedin.com/posts/mexacommunity_the-first-mexa-hackathon-was-a-great-success-activity-7272414149920366592-lLSM?utm_source=share&utm_medium=member_desktop" target="_blank">Mental Health, AI, & Measurement Hackathon</a>! Organized by MEXA and sponsored by Wellcome, Google DeepMind, and Google Health. We used a large language model to develop early intervention tools for clinicians to identify signs of postnatal depression, 
     aiming to improve maternal and child outcomes.
   </div>
 </div>
@@ -127,7 +128,7 @@ Activities
 <div class="news-container">
   <div class="news-date">July 8, 2024</div>
   <div class="news-event">
-    I was selected to participate in the <a href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK21_2024_Janelia_NDRH/" target="_blank">NeuroDataReHack Workshop</a> at the <a href="https://www.janelia.org/" target="_blank">Janelia Research Campus, Ashburn, VA, USA</a>, with travel support and accommodation generously provided.
+    I was selected to participate in the <a href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK21_2024_Janelia_NDRH/" target="_blank">NeuroDataReHack Workshop</a> at the <a href="https://www.janelia.org/" target="_blank">Janelia Research Campus, Ashburn, VA, USA</a>, with travel support and accommodation generously provided by Janelia and Howard Hughes Medical Institute (HHMI).
   </div>
 </div>
 
