@@ -58,6 +58,20 @@ Activities
 </style>
 
 <div class="news-container">
+  <div class="news-date">February 27, 2025</div>
+  <div class="news-event">
+    GitHub Project Update🆕 <a href="https://github.com/Tolulanguy/MTLSpikeSortiEEGDeepLearn" target="_blank">"Integrating Spike Sorting with Spiking & Artificial Neural Network Models to Decode Neural Activity and Simulate Memory Processes"</a> .
+  </div>
+</div>
+
+<div class="news-container">
+  <div class="news-date">January 15, 2025</div>
+  <div class="news-event">
+    I joined the <a href="https://algonautsproject.com/challenge.html" target="_blank">Algonauts 2025 Challenge</a> .
+  </div>
+</div>
+
+<div class="news-container">
   <div class="news-date">December 14, 2024</div>
   <div class="news-event">
     We presented the poster for our new paper at the 
@@ -77,8 +91,8 @@ Activities
 <div class="news-container">
   <div class="news-date">December 9, 2024</div>
   <div class="news-event">
-    New paper accepted in Journal of Toxicology: 
-    <i>Zinc and/or Vitamin E Supplementation Mitigates Oxidative Stress, Neuroinflammation, Neurochemical Changes, and Behavioral Deficits in Male Wistar Rats Exposed to Bonny Light Crude Oil.</i>
+    New publication: 
+    <i>Zinc and/or Vitamin E Supplementation Mitigates Oxidative Stress, Neuroinflammation, Neurochemical Changes, and Behavioral Deficits in Male Wistar Rats Exposed to Bonny Light Crude Oil.</i> published in Journal of Toxicology
   </div>
 </div>
 
@@ -86,14 +100,14 @@ Activities
 <div class="news-container">
   <div class="news-date">October 11, 2024</div>
   <div class="news-event">
-    New paper accepted: <i>Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain</i>, published in the Proceedings Track of UniReps 2024, NeurIPS 2024.
+    New publication: <i>Investigating the Role of Modality and Training Objective on Representational Alignment Between Transformers and the Brain</i>, published in the Proceedings Track of UniReps 2024, NeurIPS 2024.
   </div>
 </div>
 
 <div class="news-container">
   <div class="news-date">October 2, 2024</div>
   <div class="news-event">
-    New paper: <a href="http://dx.doi.org/10.1007/s42452-024-06120-9" target="_blank">Ameliorative effects of aqueous extract of Colocasia esculenta leaf against lipopolysaccharide-induced prefrontal cortex damage in mice</a>, published in Discover Applied Sciences.
+    New publication: <a href="http://dx.doi.org/10.1007/s42452-024-06120-9" target="_blank">Ameliorative effects of aqueous extract of Colocasia esculenta leaf against lipopolysaccharide-induced prefrontal cortex damage in mice</a>, published in Discover Applied Sciences.
   </div>
 </div>
 
