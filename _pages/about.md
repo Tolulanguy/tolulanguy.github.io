@@ -60,7 +60,7 @@ Activities
 <div class="news-container">
   <div class="news-date">February 27, 2025</div>
   <div class="news-event">
-    GitHub Project Update🆕 <a href="https://github.com/Tolulanguy/MTLSpikeSortiEEGDeepLearn" target="_blank">"Integrating Spike Sorting with Spiking & Artificial Neural Network Models to Decode Neural Activity and Simulate Memory Processes"</a> .
+    GitHub Project Update🆕 <a href="https://github.com/Tolulanguy/MTLSpikeSortiEEGDeepLearn" target="_blank">"Integrating iEEG Analysis with Neural Network Models to Decode Neural Activity and Simulate Memory Processes"</a> .
   </div>
 </div>
 
